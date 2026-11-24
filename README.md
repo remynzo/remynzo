@@ -56,6 +56,9 @@
   <a href="https://www.linkedin.com/in/enzorebello/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white" height="25px"/>
   </a>
+  <a href="mailto:enzorebello@usp.br">
+    <img src="https://img.shields.io/badge/Email-enzorebello%40usp.br-D14836?logo=gmail&logoColor=white" height="25px"/>
+  </a>
 </div>
 
 ---
