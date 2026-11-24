@@ -38,7 +38,7 @@
   <g font-family="'JetBrains Mono', ui-monospace, monospace" font-size="18">
     <text x="362" y="236" fill="#9db4ff">~&#160;$&#160;</text>
     <g fill="#c9c9d3"><text x="405.2" y="236" clip-path="url(#c0)">building tools that feel native</text><text x="405.2" y="236" clip-path="url(#c1)">shipping React Native apps with Expo</text><text x="405.2" y="236" clip-path="url(#c2)">teaching my desktop to talk (with Claude)</text><text x="405.2" y="236" clip-path="url(#c3)">ricing Hyprland on CachyOS</text></g>
-    <rect y="219" width="9" height="21" fill="#9db4ff">
+    <rect x="405.2" y="219" width="9" height="21" fill="#9db4ff">
       <animate attributeName="x" values="405.2;405.2;740.0;740.0;405.2;405.2;794.0;794.0;405.2;405.2;848.0;848.0;405.2;405.2;686.0;686.0;405.2;405.2" keyTimes="0.0000;0.0000;0.0996;0.2143;0.2357;0.2500;0.3657;0.4643;0.4857;0.5000;0.6318;0.7143;0.7357;0.7500;0.8336;0.9643;0.9857;1.0000" dur="14.0s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
     </rect>
