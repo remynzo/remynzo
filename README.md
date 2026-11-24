@@ -1,66 +1,71 @@
-# Hi there, I'm Enzo Rebello Miranda 👋
+<img src="./assets/banner.svg" alt="Enzo Rebello: Information Systems @ USP" width="100%" />
 
-<img src="./assets/banner.svg" alt="Banner" width="100%" />
+<h1 align="center">Hi there, I'm Enzo Rebello Miranda 👋</h1>
+
+<p align="center">
+  I like building software that feels <b>native</b>: fast, quiet, and nice to look at.<br/>
+  From mobile apps to little tools that live in my Linux desktop.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzorebello/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
+  <a href="mailto:enzorebello@usp.br"><img src="https://img.shields.io/badge/enzorebello%40usp.br-D14836?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Information Systems student at USP (University of São Paulo)
-- 🏫 Technical high school in Web Development (Informática para Internet) at ETEC Dr. Emílio Hernandez Aguilar
-- 🐧 Daily driving Linux (CachyOS + Hyprland) and building tools that make the desktop feel smarter
-- 📱 Building mobile apps with React Native and Expo
+- 🎓 **Information Systems** student at **USP** (University of São Paulo)
+- 🏫 Technical high school in Web Development at **ETEC Dr. Emílio Hernandez Aguilar**, where I built WheelGO
+- 📱 Building mobile apps with **React Native** and **Expo**
+- 🐧 Daily driving **Linux** (CachyOS + Hyprland) and making it smarter, one tool at a time
+- 🫧 Right now: polishing **bolinha**, a voice assistant that runs on my desktop
 
 ---
 
 ## 🚀 Featured Projects
 
-| | |
-|---|---|
-| 🫧 **[bolinha](https://github.com/remynzo/bolinha)** | A voice assistant that feels like part of the OS: press a shortcut, a little bubble listens, Claude answers. Local speech-to-text on the GPU, natural voices, animated styles and profiles. *Python · PyQt6* |
-| ♿ **[WheelGO](https://github.com/remynzo/WheelGO)** | My technical school final project: a collaborative map where wheelchair users rate how accessible places are, with reviews and photos. *TypeScript · React Native* |
-| 🐍 **[jogocobrinhajs](https://github.com/remynzo/jogocobrinhajs)** | A snake game for the browser. *JavaScript · PHP* |
+<p align="center">
+  <a href="https://github.com/remynzo/bolinha"><img src="./assets/projeto-bolinha.svg" alt="bolinha" width="49%"/></a>
+  <a href="https://github.com/remynzo/WheelGO"><img src="./assets/projeto-wheelgo.svg" alt="WheelGO" width="49%"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/remynzo/remynzo/output/stats.svg" alt="GitHub stats" width="100%"/>
+</p>
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,php" />
-</p>
-
-### **Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs" />
-</p>
-
-### **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,java,c,php&perline=6" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,html,css,nodejs&perline=6" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github&perline=6" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🐍 My Commits
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/remynzo/remynzo/output/snake.svg" alt="Snake eating my contributions" />
-</div>
+</p>
 
 ---
 
-## 🌐 Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/enzorebello/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white" height="25px"/>
-  </a>
-  <a href="mailto:enzorebello@usp.br">
-    <img src="https://img.shields.io/badge/Email-enzorebello%40usp.br-D14836?logo=gmail&logoColor=white" height="25px"/>
-  </a>
-</div>
-
----
-
-<p align="center"> Made with 🤍 by Enzo Rebello Miranda </p>
+<p align="center"><sub>Made with 🤍 by Enzo Rebello Miranda · stats and snake redrawn every day by GitHub Actions</sub></p>
