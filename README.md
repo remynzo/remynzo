@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg?v=2" alt="Enzo Rebello: Information Systems @ USP" width="100%" />
+<img src="./assets/banner-enzo.svg" alt="Enzo Rebello: Information Systems @ USP" width="100%" />
 
 <h1 align="center">Hi there, I'm Enzo Rebello Miranda 👋</h1>
 
