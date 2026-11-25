@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 166" width="440" height="166">
+  <defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1a20"/><stop offset="1" stop-color="#131317"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="439" height="165" rx="18" fill="url(#f)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <circle cx="44" cy="48" r="20" fill="#f0a35e" opacity="0.12"/>
+      <g transform="translate(44 48)">
+        <g><animateTransform attributeName="transform" type="rotate" values="-12;12;-12" dur="3.2s" repeatCount="indefinite"/>
+        <path d="M0-13L11.3-6.5V6.5L0 13L-11.3 6.5V-6.5Z" fill="none" stroke="#f0a35e" stroke-width="1.8" stroke-linejoin="round"/>
+        <path d="M0-6.5L6.5 4.5H-6.5Z M0-13L0-6.5M11.3-6.5L6.5 4.5M11.3 6.5L6.5 4.5M0 13L6.5 4.5M0 13L-6.5 4.5M-11.3 6.5L-6.5 4.5M-11.3-6.5L-6.5 4.5M-11.3-6.5L0-6.5M11.3-6.5L0-6.5"
+          fill="none" stroke="#f0a35e" stroke-width="1" stroke-opacity="0.7" stroke-linejoin="round"/>
+        <text y="2.6" font-size="6" font-weight="700" fill="#f0a35e" text-anchor="middle" font-family="sans-serif">20</text></g></g>
+  <g font-family="'Instrument Sans', Inter, 'Segoe UI', system-ui, sans-serif">
+    <text x="84" y="50" font-size="21" font-weight="600" fill="#ececf1">mesa-3d</text>
+    <text x="414" y="50" font-size="16" fill="#5d5d6a" text-anchor="end">↗</text>
+    <text x="84" y="78" font-size="14.5" fill="#8a8a96">3D tabletop RPG table: the GM runs the scene,</text><text x="84" y="98" font-size="14.5" fill="#8a8a96">players watch a cinematic camera with fog.</text>
+    <g transform="translate(84 122)"><rect width="82" height="24" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="12" cy="12" r="4" fill="#355570"/><text x="21" y="16.5" font-size="12" fill="#a9a9b6">GDScript</text></g><g transform="translate(174 122)"><rect width="77" height="24" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="12" cy="12" r="4" fill="#478cbf"/><text x="21" y="16.5" font-size="12" fill="#a9a9b6">Godot 4</text></g><g transform="translate(259 122)"><rect width="76" height="24" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="12" cy="12" r="4" fill="#e87d0d"/><text x="21" y="16.5" font-size="12" fill="#a9a9b6">Blender</text></g>
+  </g>
+</svg>

@@ -20,7 +20,8 @@
 - 🏫 Technical high school in Web Development at **ETEC Dr. Emílio Hernandez Aguilar**, where I built WheelGO
 - 📱 Building mobile apps with **React Native** and **Expo**
 - 🐧 Daily driving **Linux** (CachyOS + Hyprland) and making it smarter, one tool at a time
-- 🫧 Right now: polishing **bolinha**, a voice assistant that runs on my desktop
+- 🎲 Building **mesa-3d**, a cinematic 3D RPG table in **Godot** for my tabletop sessions
+- 🫧 Right now: teaching **bolinha**, my desktop voice assistant, to see the screen and move windows
 
 ---
 
@@ -28,6 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/remynzo/bolinha"><img src="./assets/projeto-bolinha.svg" alt="bolinha" width="49%"/></a>
+  <a href="https://github.com/remynzo/mesa-3d"><img src="./assets/projeto-mesa-3d.svg" alt="mesa-3d" width="49%"/></a>
   <a href="https://github.com/remynzo/WheelGO"><img src="./assets/projeto-wheelgo.svg" alt="WheelGO" width="49%"/></a>
 </p>
 
@@ -51,6 +53,10 @@
   <tr>
     <td align="center"><b>Frontend & Mobile</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,html,css,nodejs&perline=6" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Games & 3D</b></td>
+    <td><img src="https://skillicons.dev/icons?i=godot,blender&perline=6" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
